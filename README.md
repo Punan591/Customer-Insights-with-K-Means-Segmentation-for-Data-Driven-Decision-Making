@@ -44,10 +44,10 @@ This project demonstrates my ability to apply data analysis techniques to real-w
 ## 💡 **How to Run**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Customer_Insights_KMeans.git
+   https://github.com/Punan591/Customer-Insights-with-K-Means-Segmentation-for-Data-Driven-Decision-Making/
 
     Install the required libraries:
 
 pip install pandas matplotlib seaborn scikit-learn
 
-Open the Jupyter Notebook (Customer_Segmentation_Analysis.ipynb) and run the cells to reproduce the analysis.
+Open the Jupyter Notebook (Customer Segmentation with K-Means Clustering.ipynb) and run the cells to reproduce the analysis.
